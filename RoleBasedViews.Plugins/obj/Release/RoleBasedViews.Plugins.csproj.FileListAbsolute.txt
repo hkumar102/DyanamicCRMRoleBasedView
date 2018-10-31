@@ -1,0 +1,7 @@
+C:\CRM\IPs\Role Based Security\RoleBasedViews.Plugins\bin\Release\RoleBasedViews.Plugins.dll
+C:\CRM\IPs\Role Based Security\RoleBasedViews.Plugins\bin\Release\RoleBasedViews.Plugins.pdb
+C:\CRM\IPs\Role Based Security\RoleBasedViews.Plugins\bin\Release\microsoft.crm.sdk.proxy.dll
+C:\CRM\IPs\Role Based Security\RoleBasedViews.Plugins\bin\Release\microsoft.xrm.sdk.dll
+C:\CRM\IPs\Role Based Security\RoleBasedViews.Plugins\obj\Release\ResolveAssemblyReference.cache
+C:\CRM\IPs\Role Based Security\RoleBasedViews.Plugins\obj\Release\RoleBasedViews.Plugins.dll
+C:\CRM\IPs\Role Based Security\RoleBasedViews.Plugins\obj\Release\RoleBasedViews.Plugins.pdb

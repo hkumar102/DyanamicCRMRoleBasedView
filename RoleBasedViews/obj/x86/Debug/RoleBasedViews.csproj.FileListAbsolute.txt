@@ -1,0 +1,42 @@
+C:\CRM\IPs\Role Based Security\RoleBasedViews\bin\Debug\RoleBasedViews.exe
+C:\CRM\IPs\Role Based Security\RoleBasedViews\bin\Debug\RoleBasedViews.pdb
+C:\CRM\IPs\Role Based Security\RoleBasedViews\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\CRM\IPs\Role Based Security\RoleBasedViews\obj\x86\Debug\RoleBasedViews.RoleBasedViewForm.resources
+C:\CRM\IPs\Role Based Security\RoleBasedViews\obj\x86\Debug\RoleBasedViews.Properties.Resources.resources
+C:\CRM\IPs\Role Based Security\RoleBasedViews\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\CRM\IPs\Role Based Security\RoleBasedViews\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\CRM\IPs\Role Based Security\RoleBasedViews\obj\x86\Debug\RoleBasedViews.exe
+C:\CRM\IPs\Role Based Security\RoleBasedViews\obj\x86\Debug\RoleBasedViews.pdb
+C:\CRM\IPs\Role Based Security\RoleBasedViews\bin\Debug\RoleBasedViews.exe.config
+C:\CRM\IPs\Role Based Security\RoleBasedViews\bin\Debug\McTools.Xrm.Connection.dll
+C:\CRM\IPs\Role Based Security\RoleBasedViews\bin\Debug\microsoft.crm.sdk.proxy.dll
+C:\CRM\IPs\Role Based Security\RoleBasedViews\bin\Debug\microsoft.xrm.client.dll
+C:\CRM\IPs\Role Based Security\RoleBasedViews\bin\Debug\microsoft.xrm.sdk.dll
+C:\Users\hsharma\Downloads\rolebasedviews\sourceCode\sourceCode\Code\Role Based Security Code\RoleBasedViews\bin\Debug\RoleBasedViews.exe.config
+C:\Users\hsharma\Downloads\rolebasedviews\sourceCode\sourceCode\Code\Role Based Security Code\RoleBasedViews\obj\x86\Debug\RoleBasedViews.exe
+C:\Users\hsharma\Downloads\rolebasedviews\sourceCode\sourceCode\Code\Role Based Security Code\RoleBasedViews\obj\x86\Debug\RoleBasedViews.pdb
+C:\Users\hsharma\Downloads\rolebasedviews\sourceCode\sourceCode\Code\Role Based Security Code\RoleBasedViews\bin\Debug\RoleBasedViews.exe
+C:\Users\hsharma\Downloads\rolebasedviews\sourceCode\sourceCode\Code\Role Based Security Code\RoleBasedViews\bin\Debug\RoleBasedViews.pdb
+C:\Users\hsharma\Downloads\rolebasedviews\sourceCode\sourceCode\Code\Role Based Security Code\RoleBasedViews\bin\Debug\McTools.Xrm.Connection.dll
+C:\Users\hsharma\Downloads\rolebasedviews\sourceCode\sourceCode\Code\Role Based Security Code\RoleBasedViews\bin\Debug\microsoft.crm.sdk.proxy.dll
+C:\Users\hsharma\Downloads\rolebasedviews\sourceCode\sourceCode\Code\Role Based Security Code\RoleBasedViews\bin\Debug\microsoft.xrm.client.dll
+C:\Users\hsharma\Downloads\rolebasedviews\sourceCode\sourceCode\Code\Role Based Security Code\RoleBasedViews\bin\Debug\microsoft.xrm.sdk.dll
+C:\Users\hsharma\Downloads\rolebasedviews\sourceCode\sourceCode\Code\Role Based Security Code\RoleBasedViews\obj\x86\Debug\RoleBasedViews.RoleBasedViewForm.resources
+C:\Users\hsharma\Downloads\rolebasedviews\sourceCode\sourceCode\Code\Role Based Security Code\RoleBasedViews\obj\x86\Debug\RoleBasedViews.Properties.Resources.resources
+C:\Users\hsharma\Downloads\rolebasedviews\sourceCode\sourceCode\Code\Role Based Security Code\RoleBasedViews\obj\x86\Debug\RoleBasedViews.csproj.GenerateResource.Cache
+C:\Users\hsharma\Downloads\rolebasedviews\sourceCode\sourceCode\Code\Role Based Security Code\RoleBasedViews\obj\x86\Debug\RoleBasedViews.csprojResolveAssemblyReference.cache
+C:\Users\hsharma\Downloads\rolebasedviews\sourceCode\sourceCode\Code\Role Based Security Code\RoleBasedViews\bin\Debug\McTools.Xrm.Connection.WinForms.dll
+C:\Users\hsharma\Downloads\rolebasedviews\sourceCode\sourceCode\Code\Role Based Security Code\RoleBasedViews\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\hsharma\Downloads\rolebasedviews\sourceCode\sourceCode\Code\Role Based Security Code\RoleBasedViews\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+C:\Users\hsharma\Downloads\rolebasedviews\sourceCode\sourceCode\Code\Role Based Security Code\RoleBasedViews\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\hsharma\Downloads\rolebasedviews\sourceCode\sourceCode\Code\Role Based Security Code\RoleBasedViews\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Users\hsharma\Downloads\rolebasedviews\sourceCode\sourceCode\Code\Role Based Security Code\RoleBasedViews\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\hsharma\Downloads\rolebasedviews\sourceCode\sourceCode\Code\Role Based Security Code\RoleBasedViews\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+C:\Users\hsharma\Downloads\rolebasedviews\sourceCode\sourceCode\Code\Role Based Security Code\RoleBasedViews\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hsharma\Downloads\rolebasedviews\sourceCode\sourceCode\Code\Role Based Security Code\RoleBasedViews\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\hsharma\Downloads\rolebasedviews\sourceCode\sourceCode\Code\Role Based Security Code\RoleBasedViews\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Users\hsharma\Downloads\rolebasedviews\sourceCode\sourceCode\Code\Role Based Security Code\RoleBasedViews\bin\Debug\Microsoft.Xrm.Tooling.Connector.xml
+C:\Users\hsharma\Downloads\rolebasedviews\sourceCode\sourceCode\Code\Role Based Security Code\RoleBasedViews\bin\Debug\McTools.Xrm.Connection.WinForms.pdb
+C:\Users\hsharma\Downloads\rolebasedviews\sourceCode\sourceCode\Code\Role Based Security Code\RoleBasedViews\bin\Debug\McTools.Xrm.Connection.pdb
+C:\Users\hsharma\Downloads\rolebasedviews\sourceCode\sourceCode\Code\Role Based Security Code\RoleBasedViews\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\hsharma\Downloads\rolebasedviews\sourceCode\sourceCode\Code\Role Based Security Code\RoleBasedViews\bin\Debug\Microsoft.Xrm.Sdk.xml

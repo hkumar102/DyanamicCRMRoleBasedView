@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ConnectionsList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Files>
+    <ConnectionFile>
+      <Name>Default</Name>
+      <LastUsed>0001-01-01T00:00:00</LastUsed>
+      <Path>C:\Users\hsharma\Downloads\rolebasedviews\sourceCode\sourceCode\Code\Role Based Security Code\RoleBasedViews\bin\Debug\ConnectionsList.Default.xml</Path>
+    </ConnectionFile>
+  </Files>
+</ConnectionsList>

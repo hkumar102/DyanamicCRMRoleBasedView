@@ -1,0 +1,14 @@
+C:\CRM\IPs\Role Based Security\RoleBasedViews\bin\Release\RoleBasedViews.exe.config
+C:\CRM\IPs\Role Based Security\RoleBasedViews\bin\Release\RoleBasedViews.exe
+C:\CRM\IPs\Role Based Security\RoleBasedViews\bin\Release\RoleBasedViews.pdb
+C:\CRM\IPs\Role Based Security\RoleBasedViews\bin\Release\McTools.Xrm.Connection.dll
+C:\CRM\IPs\Role Based Security\RoleBasedViews\bin\Release\microsoft.crm.sdk.proxy.dll
+C:\CRM\IPs\Role Based Security\RoleBasedViews\bin\Release\microsoft.xrm.client.dll
+C:\CRM\IPs\Role Based Security\RoleBasedViews\bin\Release\microsoft.xrm.sdk.dll
+C:\CRM\IPs\Role Based Security\RoleBasedViews\obj\x86\Release\ResolveAssemblyReference.cache
+C:\CRM\IPs\Role Based Security\RoleBasedViews\obj\x86\Release\RoleBasedViews.RoleBasedViewForm.resources
+C:\CRM\IPs\Role Based Security\RoleBasedViews\obj\x86\Release\RoleBasedViews.Properties.Resources.resources
+C:\CRM\IPs\Role Based Security\RoleBasedViews\obj\x86\Release\GenerateResource.read.1.tlog
+C:\CRM\IPs\Role Based Security\RoleBasedViews\obj\x86\Release\GenerateResource.write.1.tlog
+C:\CRM\IPs\Role Based Security\RoleBasedViews\obj\x86\Release\RoleBasedViews.exe
+C:\CRM\IPs\Role Based Security\RoleBasedViews\obj\x86\Release\RoleBasedViews.pdb

@@ -1,0 +1,12 @@
+C:\CRM\IPs\Role Based Security\RoleBasedViews.Plugins\obj\Debug\ResolveAssemblyReference.cache
+C:\CRM\IPs\Role Based Security\RoleBasedViews.Plugins\bin\Debug\RoleBasedViews.Plugins.dll
+C:\CRM\IPs\Role Based Security\RoleBasedViews.Plugins\bin\Debug\RoleBasedViews.Plugins.pdb
+C:\CRM\IPs\Role Based Security\RoleBasedViews.Plugins\bin\Debug\microsoft.crm.sdk.proxy.dll
+C:\CRM\IPs\Role Based Security\RoleBasedViews.Plugins\bin\Debug\microsoft.xrm.sdk.dll
+C:\CRM\IPs\Role Based Security\RoleBasedViews.Plugins\obj\Debug\RoleBasedViews.Plugins.dll
+C:\CRM\IPs\Role Based Security\RoleBasedViews.Plugins\obj\Debug\RoleBasedViews.Plugins.pdb
+C:\Users\hsharma\Downloads\rolebasedviews\sourceCode\sourceCode\Code\Role Based Security Code\RoleBasedViews.Plugins\bin\Debug\RoleBasedViews.Plugins.dll
+C:\Users\hsharma\Downloads\rolebasedviews\sourceCode\sourceCode\Code\Role Based Security Code\RoleBasedViews.Plugins\bin\Debug\RoleBasedViews.Plugins.pdb
+C:\Users\hsharma\Downloads\rolebasedviews\sourceCode\sourceCode\Code\Role Based Security Code\RoleBasedViews.Plugins\obj\Debug\RoleBasedViews.Plugins.dll
+C:\Users\hsharma\Downloads\rolebasedviews\sourceCode\sourceCode\Code\Role Based Security Code\RoleBasedViews.Plugins\obj\Debug\RoleBasedViews.Plugins.pdb
+C:\Users\hsharma\Downloads\rolebasedviews\sourceCode\sourceCode\Code\Role Based Security Code\RoleBasedViews.Plugins\obj\Debug\RoleBasedViews.Plugins.csprojResolveAssemblyReference.cache
